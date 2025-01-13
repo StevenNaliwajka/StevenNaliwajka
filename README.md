@@ -13,6 +13,9 @@ My work often bridges different fields of engineering, combining disciplines to 
 To make life easy, I have cateogrized and organized my work with a dedicated project.  
 - Access it from the "ProjectGuide" Project below
 - [or by clicking here](https://github.com/StevenNaliwajka/ProjectGuide)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=StevenNaliwajka&theme=dracula&hide=G-code)](https://github.com/StevenNaliwajka/github-readme-stats)
+
 <!--
 **StevenNaliwajka/StevenNaliwajka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
