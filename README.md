@@ -5,8 +5,9 @@ Though my title is Electrical Engineer, programming is where my heart truly lies
 
 My work often bridges different fields of engineering, combining disciplines to build tools, solve problems, or just create something cool.
 - During undergrad, I tutored **Java** and **C++**.
-- At an internship, I expanded my skillset with **SQL** and explored **JavaScript**.
+- At an internship, I expanded my skillset with **SQL** and explored **VBScript**.
 - Most of my documented work has been written in **Python**, which has become my go-to language for tackling challenges.
+- I have gotten light **C#** experiance by modding games. 
 
 ## My Work!
 To make life easy, I have cateogrized and organized my work with a dedicated project.  
