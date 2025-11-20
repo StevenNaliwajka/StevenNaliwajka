@@ -27,6 +27,6 @@ To make life easy, I have categorized and organized my work with a dedicated pro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenNaliwajka&theme=dracula&hide=G-code)](https://github.com/anuraghazra/github-readme-stats)
 
-![Random Family Guy](https://www.naliwajka.com/peter)
+![Random Family Guy](https://www.naliwajka.com/peter) <--- Broken till I move :(
 
 </div>
