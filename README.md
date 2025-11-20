@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Yo, it's Steven. I code stuff and build stuff.
-#### It's official → [**Printect.net**](https://printect.net/)
+#### It's official → [**Printect.net**](https://printect.net/) <-- Broken till I move :(
 
 I like programming. It's fun.
 
