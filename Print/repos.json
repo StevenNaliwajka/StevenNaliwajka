@@ -1,0 +1,14 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "QAQC",
+      "Remote": "git@github.com:StevenNaliwajka/Print-QAQC.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "3D print quality assurance"
+    }
+  ]
+}

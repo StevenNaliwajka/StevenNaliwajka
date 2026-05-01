@@ -1,0 +1,14 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "Naliwajka",
+      "Remote": "git@github.com:StevenNaliwajka/Web-Naliwajka.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Personal website"
+    }
+  ]
+}

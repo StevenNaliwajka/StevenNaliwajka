@@ -1,0 +1,68 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "Fishbowl",
+      "Remote": "git@github.com:StevenNaliwajka/Game-Fishbowl.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Fishbowl game"
+    },
+    {
+      "Name": "SPTDemo",
+      "Remote": "git@github.com:StevenNaliwajka/Game-SPTDemo.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "SPT demo project"
+    },
+    {
+      "Name": "SPTMapper",
+      "Remote": "git@github.com:StevenNaliwajka/Game-SPTMapper.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "SPT map tool"
+    },
+    {
+      "Name": "TF2SentryCAD",
+      "Remote": "git@github.com:StevenNaliwajka/Game-TF2SentryCAD.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "TF2 sentry CAD models"
+    },
+    {
+      "Name": "Tarkov",
+      "Remote": "git@github.com:StevenNaliwajka/Game-Tarkov.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Tarkov tools"
+    },
+    {
+      "Name": "TicTacToe",
+      "Remote": "git@github.com:StevenNaliwajka/Game-TicTacToe.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Tic-tac-toe game"
+    },
+    {
+      "Name": "VintageStory",
+      "Remote": "git@github.com:StevenNaliwajka/Game-VintageStory.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Vintage Story game install + launcher wrapper"
+    }
+  ]
+}

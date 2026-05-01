@@ -1,0 +1,23 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "DDNS",
+      "Remote": "git@github.com:StevenNaliwajka/Infra-DDNS.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Dynamic DNS management"
+    },
+    {
+      "Name": "Network",
+      "Remote": "git@github.com:StevenNaliwajka/Infra-Network.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Network infrastructure"
+    }
+  ]
+}

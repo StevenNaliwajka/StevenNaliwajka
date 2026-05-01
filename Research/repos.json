@@ -1,0 +1,32 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "Alergen",
+      "Remote": "git@github.com:StevenNaliwajka/Research-Alergen.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Allergen research"
+    },
+    {
+      "Name": "MathMusic",
+      "Remote": "git@github.com:StevenNaliwajka/Research-MathMusic.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Math and music research"
+    },
+    {
+      "Name": "TVWS",
+      "Remote": "git@github.com:StevenNaliwajka/Research-TVWS.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "TV white space research"
+    }
+  ]
+}

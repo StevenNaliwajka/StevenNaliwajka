@@ -1,0 +1,71 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "Game",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Hack",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Infra",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Lib",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Personal",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Print",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Research",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Security",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Tool",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Web",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    },
+    {
+      "Name": "Work",
+      "Subdir": true,
+      "Enabled": true,
+      "Visibility": "private"
+    }
+  ]
+}

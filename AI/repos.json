@@ -1,0 +1,22 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "Claude",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Claude AI integration"
+    },
+    {
+      "Name": "CritterCam",
+      "Remote": "git@github.com:StevenNaliwajka/AI-CritterCam.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Self-training image classifier for wildlife photos from an outdoor security camera"
+    }
+  ]
+}

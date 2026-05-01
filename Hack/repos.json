@@ -1,0 +1,32 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "Brainstorm",
+      "Remote": "git@github.com:StevenNaliwajka/Hack-Brainstorm.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Hackathon brainstorming"
+    },
+    {
+      "Name": "KSU2024",
+      "Remote": "git@github.com:StevenNaliwajka/Hack-KSU2024.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "KSU 2024 hackathon"
+    },
+    {
+      "Name": "KSU2025",
+      "Remote": "git@github.com:StevenNaliwajka/Hack-KSU2025.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "KSU 2025 hackathon"
+    }
+  ]
+}

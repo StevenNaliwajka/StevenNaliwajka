@@ -1,0 +1,68 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "CSV",
+      "Remote": "git@github.com:StevenNaliwajka/Lib-CSV.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "CSV library"
+    },
+    {
+      "Name": "Contact",
+      "Remote": "git@github.com:StevenNaliwajka/Lib-Contact.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Contact management library"
+    },
+    {
+      "Name": "ENV",
+      "Remote": "git@github.com:StevenNaliwajka/Lib-ENV.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Environment variable library"
+    },
+    {
+      "Name": "FileIO",
+      "Remote": "git@github.com:StevenNaliwajka/Lib-FileIO.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "File I/O library"
+    },
+    {
+      "Name": "JSON",
+      "Remote": "git@github.com:StevenNaliwajka/Lib-JSON.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "JSON library"
+    },
+    {
+      "Name": "MySQL",
+      "Remote": "git@github.com:StevenNaliwajka/Lib-MySQL.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "MySQL library"
+    },
+    {
+      "Name": "VENV",
+      "Remote": "git@github.com:StevenNaliwajka/Lib-VENV.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Virtual environment library"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "Recipes",
+      "Remote": "git@github.com:StevenNaliwajka/Personal-Recipes.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Recipe collection"
+    },
+    {
+      "Name": "ToDo",
+      "Remote": "git@github.com:StevenNaliwajka/Personal-ToDo.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "To-do tracker"
+    }
+  ]
+}

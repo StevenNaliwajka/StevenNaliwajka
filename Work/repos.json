@@ -1,0 +1,14 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "SObrien",
+      "Remote": "git@github.com:StevenNaliwajka/Work-SObrien.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "S. O\u0027Brien work project"
+    }
+  ]
+}

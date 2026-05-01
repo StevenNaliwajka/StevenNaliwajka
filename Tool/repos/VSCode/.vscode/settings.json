@@ -1,0 +1,36 @@
+{
+    "editor.formatOnSave": true,
+    "editor.rulers": [100],
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+
+    // Go
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": ["--fast"],
+    "go.testFlags": ["-v", "-race", "-count=1"],
+    "go.coverOnSave": true,
+    "go.coverageDecorator": {
+        "type": "gutter",
+        "coveredHighlightColor": "rgba(64,128,64,0.2)",
+        "uncoveredHighlightColor": "rgba(128,64,64,0.2)"
+    },
+    "gopls": {
+        "ui.semanticTokens": true,
+        "ui.diagnostic.analyses": {
+            "shadow": true,
+            "unusedparams": true,
+            "unusedwrite": true
+        }
+    },
+
+    // C++
+    "C_Cpp.default.cppStandard": "c++20",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "cmake.configureOnOpen": true,
+    "cmake.buildDirectory": "${workspaceFolder}/Codebase/cpp/build",
+
+    // Testing
+    "testExplorer.useNativeTesting": true
+}

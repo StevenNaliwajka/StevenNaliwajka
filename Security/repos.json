@@ -1,0 +1,23 @@
+{
+  "Version": "1.0.0",
+  "Children": [
+    {
+      "Name": "KSUField",
+      "Remote": "git@github.com:StevenNaliwajka/Security-KSUField.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "KSU field security"
+    },
+    {
+      "Name": "Passwords",
+      "Remote": "git@github.com:StevenNaliwajka/Security-Passwords.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Password management"
+    }
+  ]
+}
