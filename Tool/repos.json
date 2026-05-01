@@ -18,6 +18,15 @@
       "Version": "0.1.0",
       "Visibility": "private",
       "Description": "PC initialization tool"
+    },
+    {
+      "Name": "VSCode",
+      "Remote": "git@github.com:StevenNaliwajka/Tool-VSCode.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "VS Code installer and configuration wrapper"
     }
   ]
 }

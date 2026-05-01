@@ -8,7 +8,25 @@
       "Enabled": true,
       "Version": "0.1.0",
       "Visibility": "private",
-      "Description": "S. O\u0027Brien work project"
+      "Description": "S. O'Brien work project"
+    },
+    {
+      "Name": "PanelSchedule",
+      "Remote": "git@github.com:StevenNaliwajka/Work-PanelSchedule.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Electrical panel schedule tooling"
+    },
+    {
+      "Name": "Teams",
+      "Remote": "git@github.com:StevenNaliwajka/Work-Teams.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Microsoft Teams launcher / wrapper"
     }
   ]
 }

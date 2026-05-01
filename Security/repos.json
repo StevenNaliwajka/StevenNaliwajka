@@ -18,6 +18,15 @@
       "Version": "0.1.0",
       "Visibility": "private",
       "Description": "Password management"
+    },
+    {
+      "Name": "Standards",
+      "Remote": "git@github.com:StevenNaliwajka/Security-Standards.git",
+      "Subdir": false,
+      "Enabled": true,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Personal security standards and reference notes"
     }
   ]
 }
