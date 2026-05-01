@@ -27,6 +27,15 @@
       "Version": "0.1.0",
       "Visibility": "private",
       "Description": "VS Code installer and configuration wrapper"
+    },
+    {
+      "Name": "Startup",
+      "Remote": "git@github.com:StevenNaliwajka/Tool-Startup.git",
+      "Subdir": false,
+      "Enabled": false,
+      "Version": "0.1.0",
+      "Visibility": "private",
+      "Description": "Older standalone startup orchestrator (port 9876 collides with Desktop's StartupTool — disabled by default)"
     }
   ]
 }
