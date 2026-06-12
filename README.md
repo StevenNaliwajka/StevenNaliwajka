@@ -27,10 +27,10 @@ Everything I build — categorized, organized, and live — lives on my site:
 ### **What I code with:**
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" alt="Steven's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=StevenNaliwajka&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="165" alt="Steven's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=StevenNaliwajka&theme=dracula&show_icons=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenNaliwajka&theme=dracula&hide=G-code&layout=compact&langs_count=10&count_private=true" />
+    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenNaliwajka&theme=dracula&hide=G-code&layout=compact&langs_count=10" />
   </a>
 </p>
 
