@@ -37,6 +37,8 @@ Everything I build — categorized, organized, and live — lives on my site:
 ---
 
 ## **Peter Portal**
+![Random Family Guy](https://www.naliwajka.com/peter)
+
 See your peter: <a href="https://www.naliwajka.com/peter">www.naliwajka.com/peter</a>
 
 </div>
