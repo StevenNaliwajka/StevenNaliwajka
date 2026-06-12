@@ -17,16 +17,33 @@ I like programming. It's fun.
 ---
 
 ## **My Work**
-To make life easy, I have categorized and organized my work with a dedicated project:  
+Everything I build — categorized, organized, and live — lives on my site:  
 <p>
-  Access it from the <strong>ProjectGuide</strong> project below<br>
-  <a href="https://github.com/StevenNaliwajka/ProjectGuide"><strong>Or click here</strong></a>
+  <a href="https://www.naliwajka.com"><strong>www.naliwajka.com</strong></a>
 </p>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenNaliwajka&theme=dracula&hide=G-code)](https://github.com/anuraghazra/github-readme-stats)
+### **What I code with:**
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" alt="Steven's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=StevenNaliwajka&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenNaliwajka&theme=dracula&hide=G-code&layout=compact&langs_count=10&count_private=true" />
+  </a>
+</p>
 
-![Random Family Guy](https://www.naliwajka.com/peter) <--- Broken till I move :(
+---
+
+## **Peter** — the reverse image server
+A little FastAPI image server that streams back a random, date- &amp; season-aware Family Guy gif on every single request.  
+<p>
+  <strong>Repo:</strong> <a href="https://github.com/StevenNaliwajka/PeterRepository">StevenNaliwajka/PeterRepository</a>
+  &nbsp;·&nbsp;
+  <strong>Live:</strong> <a href="https://www.naliwajka.com/peter">www.naliwajka.com/peter</a>
+</p>
+
+![Random Family Guy](https://www.naliwajka.com/peter)
 
 </div>
