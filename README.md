@@ -36,14 +36,7 @@ Everything I build — categorized, organized, and live — lives on my site:
 
 ---
 
-## **Peter** — the reverse image server
-A little FastAPI image server that streams back a random, date- &amp; season-aware Family Guy gif on every single request.  
-<p>
-  <strong>Repo:</strong> <a href="https://github.com/StevenNaliwajka/PeterRepository">StevenNaliwajka/PeterRepository</a>
-  &nbsp;·&nbsp;
-  <strong>Live:</strong> <a href="https://www.naliwajka.com/peter">www.naliwajka.com/peter</a>
-</p>
-
-![Random Family Guy](https://www.naliwajka.com/peter)
+## **Peter Portal**
+See your peter: <a href="https://www.naliwajka.com/peter">www.naliwajka.com/peter</a>
 
 </div>
