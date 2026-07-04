@@ -1,46 +1,31 @@
-<h1 align="center">Steven Naliwajka</h1>
+<div align="center">
 
-<p align="center"><em>I build <a href="https://www.printect.net">Printect</a> — an on-demand 3D-printing shop that runs entirely on hardware I own.</em></p>
+### Yo, it's Steven. I code stuff and build stuff.
 
-<p align="center">
-  <a href="https://www.naliwajka.com/status"><img alt="system status" src="https://www.naliwajka.com/status/badge/status.svg"></a>
-  <a href="https://www.naliwajka.com/status"><img alt="first-party lines of code" src="https://www.naliwajka.com/status/badge/loc.svg"></a>
-  <a href="https://www.printect.net"><img alt="printect.net" src="https://www.naliwajka.com/status/badge/site.svg"></a>
-</p>
+#### It's official → [**Printect.net**](https://www.printect.net/)
+
+Everything I build — categorized, organized, and live — lives at [**www.naliwajka.com**](https://www.naliwajka.com)
 
 ---
 
-## 🖨️ Printect
+## My Work
 
-**[printect.net](https://www.printect.net)** is a print-on-demand 3D-printing storefront — upload a model, get an instant quote, and I print and ship it. Every layer runs on a Proxmox cluster in my home lab: no SaaS, no third-party backend. The storefront, print engine, slicer, quoting model, build-plate packer, address autocomplete, and sign-in are all services I wrote and operate.
+Real line counts, served live from my home lab (not a third-party counter):
 
-### Live system status
-
-Real health and codebase size, served straight from my self-hosted status service at [`www.naliwajka.com/status`](https://www.naliwajka.com/status) — these badges are live:
-
-| Service | What it does | Status |
-| :--- | :--- | :--- |
-| **Storefront** | Public shop at printect.net | [![site](https://www.naliwajka.com/status/badge/site.svg)](https://www.printect.net) |
-| **Store** | Catalog · cart · checkout | ![store](https://www.naliwajka.com/status/badge/store.svg) |
-| **PrintQue** | Print queue + routing engine | ![printque](https://www.naliwajka.com/status/badge/printque.svg) |
-| **Slicer** | Model → G-code | ![slicer](https://www.naliwajka.com/status/badge/slicer.svg) |
-| **Quoting** | Instant cost / BOM model | ![quoting](https://www.naliwajka.com/status/badge/quoting.svg) |
-| **Packer** | Auto build-plate packing | ![packer](https://www.naliwajka.com/status/badge/packer.svg) |
-| **Geolookup** | Self-hosted address autocomplete | ![geolookup](https://www.naliwajka.com/status/badge/geolookup.svg) |
-| **Accounts** | Google sign-in / identity | ![accounts](https://www.naliwajka.com/status/badge/accounts.svg) |
-
-> 📊 **[See the full live dashboard →](https://www.naliwajka.com/status)** — up/down, rolling uptime, and lines of code across the whole stack, updated in real time from the home lab.
-
-### Under the hood
-
-- **Languages** — Go · Python · JavaScript, every line first-party (the ![loc](https://www.naliwajka.com/status/badge/loc.svg) above is the real, live total).
-- **Infra** — Proxmox LXC · nginx reverse proxy · Cloudflare · WireGuard · self-hosted GitLab, all administered by a management plane I built.
-- **Self-hosted end to end** — even this status service and these badges run on my own metal.
+[![printect.net](https://www.naliwajka.com/status/badge/loc-printect.svg)](https://www.printect.net) [![naliwajka.com](https://www.naliwajka.com/status/badge/loc-naliwajka.svg)](https://www.naliwajka.com) [![total](https://www.naliwajka.com/status/badge/loc.svg)](https://www.naliwajka.com/status)
 
 ---
 
-<p align="center">
-  <a href="https://www.printect.net">🛒&nbsp;printect.net</a> &nbsp;·&nbsp;
-  <a href="https://www.naliwajka.com/status">📊&nbsp;live&nbsp;status</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/steven-naliwajka-69564929a/">💼&nbsp;LinkedIn</a>
-</p>
+### What I code with:
+
+[![Languages I code with](https://www.naliwajka.com/status/card/languages.svg)](https://www.naliwajka.com/status)
+
+---
+
+## Peter Portal
+
+[![Peter](https://www.naliwajka.com/staticpeter/peter.gif)](https://www.naliwajka.com/peter)
+
+Roll your own → [**www.naliwajka.com/peter**](https://www.naliwajka.com/peter)
+
+</div>
