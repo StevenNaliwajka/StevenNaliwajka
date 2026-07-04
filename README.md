@@ -4,7 +4,7 @@
 
 #### It's official → [**Printect.net**](https://www.printect.net/)
 
-Everything I build — categorized, organized, and live — lives at [**www.naliwajka.com**](https://www.naliwajka.com)
+Everything I build, categorized, organized, and live, lives at [**www.naliwajka.com**](https://www.naliwajka.com)
 
 ---
 
@@ -12,7 +12,11 @@ Everything I build — categorized, organized, and live — lives at [**www.nali
 
 Real line counts, served live from my home lab (not a third-party counter):
 
-[![printect.net](https://www.naliwajka.com/status/badge/loc-printect.svg)](https://www.printect.net) [![naliwajka.com](https://www.naliwajka.com/status/badge/loc-naliwajka.svg)](https://www.naliwajka.com) [![total](https://www.naliwajka.com/status/badge/loc.svg)](https://www.naliwajka.com/status)
+[![Visit www.printect.net](https://www.naliwajka.com/status/badge/visit-printect.svg)](https://www.printect.net) &nbsp; [![lines of code](https://www.naliwajka.com/status/badge/loc-printect.svg)](https://www.naliwajka.com/status)
+
+[![Visit www.naliwajka.com](https://www.naliwajka.com/status/badge/visit-naliwajka.svg)](https://www.naliwajka.com) &nbsp; [![lines of code](https://www.naliwajka.com/status/badge/loc-naliwajka.svg)](https://www.naliwajka.com/status)
+
+[![total](https://www.naliwajka.com/status/badge/loc.svg)](https://www.naliwajka.com/status)
 
 ---
 
