@@ -1,6 +1,6 @@
 <div align="center">
 
-### Yo, it's Steven. I code stuff and build stuff.
+### Hello, it's Steven. I code and built things.
 
 #### It's official → [**Printect.net**](https://www.printect.net/)
 
