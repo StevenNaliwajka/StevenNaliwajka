@@ -16,6 +16,8 @@ Real line counts, served live from my home lab (not a third-party counter):
 
 [![Visit www.naliwajka.com](https://www.naliwajka.com/status/badge/visit-naliwajka.svg)](https://www.naliwajka.com) &nbsp; [![lines of code](https://www.naliwajka.com/status/badge/loc-naliwajka.svg)](https://www.naliwajka.com/about#code)
 
+<picture><img alt="Red Ribbon" src="https://www.naliwajka.com/status/badge/name-ribbon.svg"></picture> &nbsp; <picture><img alt="lines of code" src="https://www.naliwajka.com/status/badge/loc-ribbon.svg"></picture>
+
 [![total](https://www.naliwajka.com/status/badge/loc.svg)](https://www.naliwajka.com/about#code)
 
 ---
