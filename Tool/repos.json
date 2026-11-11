@@ -1,41 +1,4 @@
 {
   "Version": "1.0.0",
-  "Children": [
-    {
-      "Name": "GIFtoASCII",
-      "Remote": "git@github.com:StevenNaliwajka/Tool-GIFtoASCII.git",
-      "Subdir": false,
-      "Enabled": true,
-      "Version": "0.1.0",
-      "Visibility": "private",
-      "Description": "GIF to ASCII converter"
-    },
-    {
-      "Name": "PCInit",
-      "Remote": "git@github.com:StevenNaliwajka/Tool-PCInit.git",
-      "Subdir": false,
-      "Enabled": true,
-      "Version": "0.1.0",
-      "Visibility": "private",
-      "Description": "PC initialization tool"
-    },
-    {
-      "Name": "VSCode",
-      "Remote": "git@github.com:StevenNaliwajka/Tool-VSCode.git",
-      "Subdir": false,
-      "Enabled": true,
-      "Version": "0.1.0",
-      "Visibility": "private",
-      "Description": "VS Code installer and configuration wrapper"
-    },
-    {
-      "Name": "Startup",
-      "Remote": "git@github.com:StevenNaliwajka/Tool-Startup.git",
-      "Subdir": false,
-      "Enabled": false,
-      "Version": "0.1.0",
-      "Visibility": "private",
-      "Description": "Older standalone startup orchestrator (port 9876 collides with Desktop's StartupTool — disabled by default)"
-    }
-  ]
+  "Children": []
 }
