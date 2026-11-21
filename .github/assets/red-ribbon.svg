@@ -1,0 +1,11 @@
+<svg width="512" height="512" viewBox="0 0 560 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Red Ribbon icon">
+  <title>Red Ribbon</title>
+  <desc>A red ribbon as a single thick curved stroke. Tight loop in the top half, tails fanning to the bottom with flat edges. Padded for icon use.</desc>
+
+  <path d="M 110 500 C 470 280, 430 80, 280 80 C 130 80, 90 280, 450 500"
+        fill="none"
+        stroke="#D62828"
+        stroke-width="92"
+        stroke-linecap="butt"
+        stroke-linejoin="miter"/>
+</svg>
