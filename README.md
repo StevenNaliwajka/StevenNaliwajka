@@ -38,6 +38,38 @@ Try it free for 14 days → [**getredribbon.com**](https://getredribbon.com)
 
 ---
 
+## Across the board
+
+Nine fields, 30+ languages, one person.
+
+<table>
+<tr>
+<td width="33%" valign="top"><b>Desktop apps</b><br><sub>Red Ribbon, a PDF editor in Rust for Windows, macOS, Linux and the browser, plus my own desktop launcher and control panel.</sub><br><code>Rust</code> <code>C#</code> <code>NSIS</code> <code>WiX</code></td>
+<td width="33%" valign="top"><b>Revit and AutoCAD</b><br><sub>At Salas O'Brien: a Revit API add-in that builds COMcheck energy-code forms straight from the model, and the C# tools around it.</sub><br><code>C#</code> <code>Revit API</code> <code>WinForms</code> <code>PowerShell</code></td>
+<td width="33%" valign="top"><b>Commerce</b><br><sub>Printect, built solo: catalog, a quoting engine that slices and prices an upload, build-plate packing, labels and payments.</sub><br><code>Go</code> <code>Python</code> <code>Stripe</code> <code>EasyPost</code></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><b>Infrastructure</b><br><sub>A Proxmox cluster of self-written services on VLAN-segmented MikroTik networking, WireGuard and an nginx edge.</sub><br><code>Proxmox</code> <code>OpenTofu</code> <code>RouterOS</code> <code>WireGuard</code></td>
+<td width="33%" valign="top"><b>CI/CD and releases</b><br><sub>GitLab runners on Linux, Windows and macOS, test suites split across machines, signed builds and a manual production gate.</sub><br><code>GitLab CI</code> <code>Docker</code> <code>Bash</code> <code>Azure Signing</code></td>
+<td width="33%" valign="top"><b>Web and identity</b><br><sub>The naliwajka.com tools (blog, paste, drop, library, status) behind a self-hosted sign-in shared by every site.</sub><br><code>Python</code> <code>FastAPI</code> <code>JavaScript</code> <code>OIDC</code></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><b>Games and mods</b><br><sub>Garry's Mod BMX: the bike and park map on the Workshop, plus their gamemode. A Minecraft plugin with datapacks and proximity voice. A Factorio tool in Rust.</sub><br><code>Lua</code> <code>Java</code> <code>MCFunction</code> <code>Rust</code></td>
+<td width="33%" valign="top"><b>Hardware and 3D printing</b><br><sub>PCBs in KiCad, Arduino firmware, parametric STLs generated from code and a slicer running headless on a server.</sub><br><code>KiCad</code> <code>Arduino</code> <code>SOLIDWORKS</code> <code>Python</code></td>
+<td width="33%" valign="top"><b>Teaching</b><br><sub>Taught C#, Java, Python and SQL at Kennesaw State, where I earned my MS in Electrical and Computer Engineering.</sub><br><code>C#</code> <code>Java</code> <code>Python</code> <code>SQL</code></td>
+</tr>
+</table>
+
+---
+
+### What I code with:
+
+[![Languages I code with](https://www.naliwajka.com/status/card/languages.svg)](https://www.naliwajka.com/about#code)
+
+<sub>Every language I write, counted from the repos on my rack's GitLab. My work at Salas O'Brien is included as totals only, since those repositories are private.</sub>
+
+---
+
 ## My Work
 
 Real line counts, served live from my home lab (not a third-party counter):
@@ -64,14 +96,6 @@ Real line counts, served live from my home lab (not a third-party counter):
 | [**factorio-window-memory**](https://github.com/StevenNaliwajka/factorio-window-memory) | Factorio's windows open where you last dragged them | Rust |
 | [**crealityprint-headless**](https://github.com/StevenNaliwajka/crealityprint-headless) | The slicer behind Printect's quotes, running on a server with no display | Python |
 | [**HL-EdgeGate**](https://github.com/StevenNaliwajka/HL-EdgeGate) | The nginx + certbot edge in front of the rack | Python |
-
----
-
-### What I code with:
-
-[![Languages I code with](https://www.naliwajka.com/status/card/languages.svg)](https://www.naliwajka.com/about#code)
-
-<sub>Counted from the repos on my rack's GitLab</sub>
 
 ---
 
