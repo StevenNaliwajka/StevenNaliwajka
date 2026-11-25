@@ -1,11 +1,6 @@
-<svg width="512" height="512" viewBox="0 0 560 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Red Ribbon icon">
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Red Ribbon icon">
   <title>Red Ribbon</title>
-  <desc>A red ribbon as a single thick curved stroke. Tight loop in the top half, tails fanning to the bottom with flat edges. Padded for icon use.</desc>
-
-  <path d="M 110 500 C 470 280, 430 80, 280 80 C 130 80, 90 280, 450 500"
-        fill="none"
-        stroke="#D62828"
-        stroke-width="92"
-        stroke-linecap="butt"
-        stroke-linejoin="miter"/>
+  <desc>A red banner ribbon folded into an R lying on its side: the top tail runs across, a second strand hangs under it beside the dark underside of the fold, and the right tail kicks out at the foot. Thin gaps mark the folds, so it reads in one colour too. Drawn by logo-study gen6.py (round 6, As drawn) and flattened to plain paths by flatten6.py, 2026-11-24.</desc>
+  <path fill="#D62828" d="M261.55 63.82 L30.72 166.59 L110.79 192.24 L76.27 268.90 L357.01 143.91ZM229.61 212.85 L146.04 250.06 L168.77 353.90 L281.14 448.18ZM435.73 256.76 L328.47 304.52 L294.08 442.42 L481.28 359.08 L401.21 333.43Z"/>
+  <path fill="#9B1A1A" d="M353.58 157.66 L240.02 208.22 L287.23 423.78Z"/>
 </svg>

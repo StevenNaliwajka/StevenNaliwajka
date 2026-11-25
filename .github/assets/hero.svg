@@ -4,17 +4,18 @@
     text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
     /* Resting state is the finished picture (viewers that skip animation show it);
        animations only add the entrance, holding their first frame through each delay. */
-    .draw { stroke-dasharray: 1; stroke-dashoffset: 0; animation: draw 1.8s cubic-bezier(.6,.05,.25,1) .2s backwards; }
+    .fold { transform-box: fill-box; animation: fold .7s cubic-bezier(.2,.7,.25,1) backwards; }
+    .f1 { animation-delay: .2s; } .f2 { animation-delay: .45s; } .f3 { animation-delay: .7s; } .f4 { animation-delay: .95s; }
     .rise { animation: rise .9s ease-out backwards; }
     .d1 { animation-delay: .5s; } .d2 { animation-delay: .8s; } .d3 { animation-delay: 1.1s; } .d4 { animation-delay: 1.4s; }
     .c2, .c3 { opacity: 0; }
     .cycle { animation: cycle 12s linear infinite both; }
     .c1 { animation-delay: 1.6s; } .c2 { animation-delay: 5.6s; } .c3 { animation-delay: 9.6s; }
-    @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+    @keyframes fold { from { opacity: 0; transform: translateY(-18px); } to { opacity: 1; transform: none; } }
     @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
     @keyframes cycle { 0% { opacity: 0; } 4% { opacity: 1; } 30% { opacity: 1; } 34% { opacity: 0; } 100% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) {
-      .draw, .rise, .cycle { animation: none; }
+      .fold, .rise, .cycle { animation: none; }
     }
   </style>
   <defs>
@@ -41,10 +42,13 @@
     <rect width="1200" height="340" fill="url(#grid5)"/>
     <path d="M -60 318 C 320 210, 720 400, 1260 236" fill="none" stroke="#D62828" stroke-opacity=".10" stroke-width="70"/>
 
-    <!-- Red Ribbon, drawn in -->
-    <g transform="translate(58 44) scale(.44)">
-      <path d="M 110 500 C 470 280, 430 80, 280 80 C 130 80, 90 280, 450 500" fill="none" stroke="#ff2d4f" stroke-opacity=".45" stroke-width="92" filter="url(#glow)"/>
-      <path class="draw" pathLength="1" d="M 110 500 C 470 280, 430 80, 280 80 C 130 80, 90 280, 450 500" fill="none" stroke="#D62828" stroke-width="92" stroke-linecap="butt"/>
+    <!-- Red Ribbon, folded in back to front: right tail, the fold's dark underside, the strand, the top tail -->
+    <g transform="translate(61.7 51.7) scale(0.466)">
+      <path d="M110.79 192.24 L76.27 268.90 L357.01 143.91 L261.55 63.82 L30.72 166.59ZM287.23 423.78 L353.58 157.66 L240.02 208.22ZM168.77 353.90 L281.14 448.18 L229.61 212.85 L146.04 250.06ZM294.08 442.42 L481.28 359.08 L401.21 333.43 L435.73 256.76 L328.47 304.52Z" fill="#ff2d4f" fill-opacity=".45" filter="url(#glow)"/>
+      <path class="fold f1" fill="#D62828" d="M481.28 359.08 L401.21 333.43 L435.73 256.76 L328.47 304.52 L294.08 442.42Z"/>
+      <path class="fold f2" fill="#9B1A1A" d="M353.58 157.66 L240.02 208.22 L287.23 423.78Z"/>
+      <path class="fold f3" fill="#D62828" d="M168.77 353.90 L281.14 448.18 L229.61 212.85 L146.04 250.06Z"/>
+      <path class="fold f4" fill="#D62828" d="M357.01 143.91 L261.55 63.82 L30.72 166.59 L110.79 192.24 L76.27 268.90Z"/>
     </g>
 
     <text class="rise d1" x="342" y="98" fill="#ff9aab" font-size="15" font-weight="700" letter-spacing="4">CO-FOUNDER OF DEWBLE  ·  A MAKER OF RED RIBBON</text>
